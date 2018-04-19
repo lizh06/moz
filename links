@@ -1,5 +1,6 @@
+packs/testing/mozbase/mozfile
+packs/testing/mozbase/mozinfo
+packs/testing/mozbase/mozprocess
+# packs/testing/mozbase/manifestparser
 packs/python/mach
 packs/python/mozbuild
-packs/testing/mozbase/manifestparser
-packs/testing/mozbase/mozfile
-packs/testing/mozbase/mozprocess

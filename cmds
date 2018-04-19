@@ -1,0 +1,2 @@
+grep -Ev '^#' links | xargs -i ln -s {}
+grep -Ev '^#' links | splitJoin -d / -f +-1: | xargs -i echo pip install -e {}
